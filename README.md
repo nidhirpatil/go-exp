@@ -1,2 +1,2 @@
 # go-exp
-Experiential repo to learn Go
+Experimental repo to learn Go
